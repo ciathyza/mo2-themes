@@ -1,4 +1,4 @@
-/* Night Eyes theme v1.0.0 for Mod Organizer 2 by Ciathyza */
+/* Night Eyes theme v1.0.1 for Mod Organizer 2 by Ciathyza */
 /* https://github.com/ciathyza/mo2-themes */
 
 /* Main Window ---------------------------------------------------------------- */
@@ -65,14 +65,14 @@ QToolBar::separator
 
 QToolButton
 {
-	padding: 4px 6px;
-	border-radius: 6px;
-	margin: 4px 4px 0px 4px;
+	padding: 4px 1px;
+	border-radius: 2px;
+	margin: 4px 1px 0px 1px;
 }
 
 QToolButton:hover
 {
-	background: #242424;
+	background: #282828;
 }
 
 QToolButton:pressed
